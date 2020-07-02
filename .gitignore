@@ -1,0 +1,12 @@
+**/__pycache__
+/dataset
+/experiments
+*.out
+*.blend
+*.png
+*.svg
+*.zip
+*.py~
+*.pkl
+*.swp
+

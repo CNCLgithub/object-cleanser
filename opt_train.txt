@@ -1,0 +1,5 @@
+------------ Options -------------
+datasetPath: dataset/
+harshPolish: False
+resultPath: cleanedObjs/
+-------------- End ----------------
